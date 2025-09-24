@@ -36,4 +36,4 @@ def count_sentence_words(sentence: str) -> str:
     return result
 
 if __name__ == "__main__":
-    app.run(transport="sse")
+    app.run(transport="stdio")
