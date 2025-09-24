@@ -1,0 +1,15 @@
+2025-09-23 16:25:53,312 - root - WARNING - Failed to validate request: Received request before initialization was complete
+2025-09-23 16:25:54,602 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:25:54,606 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-23 16:25:54,610 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:25:54,610 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:25:54,611 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:25:54,617 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-23 16:25:54,617 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-09-23 16:25:56,260 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:26:19,642 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:26:19,647 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-23 16:26:19,647 - WordCounter - INFO - 用户输入: 您上句话是："今天是什么日子" 这句话一共包含 **5 个汉字**（不含标点符号）。 需要我帮您统计其他内容吗？ 😊 | 字数统计: 58
+2025-09-23 16:26:28,761 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-09-23 16:26:28,764 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-23 16:26:28,764 - WordCounter - INFO - 用户输入: 您上句话是："今天是什么日子" 这句话一共包含 **5 个汉字**（不含标点符号）。 需要我帮您统计其他内容吗？ 😊 | 字数统计: 58
