@@ -1,10 +1,13 @@
 
 {
-  "mcpserver":{
-    "word_count":{
+  "mcpServers":{
+    "word_counter":{
       "type":"stdio",
-      "command":"python",
-      "args":["-m","word_counter"]
+      "command":"uvx",
+      "args":[
+        "--host","localhost",
+        "--port","8000"
+      ]
     }
   }
 }
