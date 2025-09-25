@@ -5,6 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "word-count-mcp"          # PyPI 包名（小写、连字符通常可）
 version = "0.1.0"
+dependencies = ["mcp>=0.1.0"]
 description = "MCP 工具：统计一句话的字数"
 readme = "README.md"
 requires-python = ">=3.8"
