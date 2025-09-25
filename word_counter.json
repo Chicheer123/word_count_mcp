@@ -5,8 +5,7 @@
       "type":"stdio",
       "command":"uvx",
       "args":[
-        "--host","localhost",
-        "--port","8000"
+       "word-count-mcp@0.0.0"
       ]
     }
   }
