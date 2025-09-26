@@ -1,0 +1,12 @@
+
+{
+  "mcpServers":{
+    "word_counter":{
+      "type":"stdio",
+      "command":"uvx",
+      "args":[
+       "word_count_mcp"
+      ]
+    }
+  }
+}
